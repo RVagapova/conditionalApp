@@ -1,4 +1,4 @@
-package ru.netology.conditionalapp;
+package ru.netology.conditionalapp.model;
 
 public interface SystemProfile {
     String getProfile();
